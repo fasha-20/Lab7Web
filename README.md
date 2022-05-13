@@ -14,13 +14,16 @@
 
 
 
+
 2. Menampilkan data diri menggunakan variabel
 
 ![2.png](gambar/2.png)
 
 
 
+
 ![2_1.png](gambar/2_1.png)
+
 
 
 
@@ -32,7 +35,9 @@
 
 
 
+
 ![3_1.png](gambar/3_1.png)
+
 
 
 
@@ -49,7 +54,9 @@ Pertanyaan dan Tugas. Buatlah program PHP sederhana dengan menggunakan form inpu
 
 
 
+
 ![5.png](gambar/5.png)
+
 
 
 
@@ -61,7 +68,9 @@ Pertanyaan dan Tugas. Buatlah program PHP sederhana dengan menggunakan form inpu
 
 
 
+
 ![9.png](gambar/9.png)
+
 
 
 
@@ -69,6 +78,7 @@ Pertanyaan dan Tugas. Buatlah program PHP sederhana dengan menggunakan form inpu
 3. Hasil inputan data
 
 ![6.png](gambar/6.png)
+
 
 
 

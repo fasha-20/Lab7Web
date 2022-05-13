@@ -11,12 +11,12 @@
     <div class="bio">
         <h2 class="biodata">BIODATA</h2>
         <hr>
-        <form action="POST">
+        <form action="" method="POST">
             <label for="">Nama</label>
             <input class="nama" type="text" name=nama id="" placeholder="Memasukkan Nama...">
             <br>
             <label for="">Tanggal Lahir</label>
-            <input class="nama" type="date" name="Tanggal Lahir" value="">
+            <input class="nama" type="date" name="Tanggal" value="">
             <br>
             <label for="Job">Pekerjaan</label>
             <select class="nama" name="job" id="job">

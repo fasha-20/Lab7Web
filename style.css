@@ -1,0 +1,57 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    font-size: 16px;
+    font-weight: 400;
+    color: rgb(32, 32, 32);
+    background-color: rgba(0, 255, 21, 0.231);
+}
+
+.biodata {
+    text-align: left;
+    text-transform: uppercase;
+}
+
+hr{
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+
+.bio {
+    width: 350px;
+    background: white;
+    margin: 50px auto;
+    padding: 20px 20px;
+}
+
+.output {
+    padding-top: 20px;
+    text-align: center;
+    text-transform: capitalize;
+}
+
+label {
+    font-size: 11pt;
+}
+
+.nama {
+    box-sizing: border-box;
+    width: 100%;
+    padding: 10px;
+    font-size: 11pt;
+    margin-bottom: 20px;
+    margin-top: 10px;
+}
+
+.kirim {
+    background: black;
+    color: white;
+    font-size: 11pt;
+    width: 100%;
+    border: none;
+    border-radius: 15px;
+    padding: 10px 20px;
+}
